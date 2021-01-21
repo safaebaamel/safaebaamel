@@ -4,17 +4,13 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
-
-<!-- first row -->
-<p align="center">
-<a href="https://github.com/sapae"><img src="https://camo.githubusercontent.com/38bf262e2c177202fedef68851784c63dad5bb64/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6172736869616d69646f73"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Darshiamidos&longCache=true">
-</a>
-<p>
-
+    
 ### 👋 Yo World :3! I'm Safae, a Youcoder, a Full-stack developer :)! You can say that I'm a complete NERD w glasses :computer: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p>
  
 :heart: Code :heart: Programming :3!! :heart:
+
+![Profile views](https://gpvc.arturio.dev/sapae) <a href="https://github.com/sapae"><img src="https://img.shields.io/github/followers/sapae?label=Follow&style=social"></a> <a href="https://twitter.com/sapae"><img src="https://img.shields.io/twitter/follow/sapae?style=social"></a>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
 ![sapae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapae&hide=["stars"]&show_icons=true)
