@@ -15,17 +15,6 @@
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
 ![sapae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapae&hide=["stars"]&show_icons=true)
 
-📊 **This week I spent my time on**
-
-<!--START_SECTION:waka-->
-```text
-C++ || C    1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Python      1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-Shell       24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-JAVA        21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-C#          19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-```
-<!--END_SECTION:waka-->
 <a href="#stats">
 <img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=sapae&layout=compact" />
 </a>
