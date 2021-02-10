@@ -12,7 +12,7 @@
 :heart: Code :heart: Programming :3!! :heart:
 </p>
 
-![Profile views](https://gpvc.arturio.dev/sapae) <a style= "position: center" href="https://github.com/sapae"><img src="https://img.shields.io/github/followers/sapae?label=Follow&style=social"></a> <a href="https://twitter.com/sapae"><img src="https://img.shields.io/twitter/follow/sapae?style=social"></a>
+![Profile views](https://gpvc.arturio.dev/sapae) <a style= "position: center" href="https://github.com/sapae"><img src="https://img.shields.io/github/followers/sapae?label=Follow&style=social"></a> <a href="https://twitter.com/safaebaamel"><img src="https://img.shields.io/twitter/follow/sapae?style=social"></a>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
 ![sapae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapae&hide=["stars"]&show_icons=true)
