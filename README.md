@@ -15,10 +15,10 @@
 ![Profile views](https://gpvc.arturio.dev/sapae) <a style= "position: center" href="https://github.com/safaebaamel"><img src="https://img.shields.io/github/followers/safaebaamel?label=Follow&style=social"></a> <a href="https://twitter.com/safaebaamel"><img src="https://img.shields.io/twitter/follow/safaebaamel?style=social"></a>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
-![sapae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sapae&hide=["stars"]&show_icons=true)
+![safae baamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaebaamel&hide=["stars"]&show_icons=true)
 
 <a href="#stats">
-<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=sapae&layout=compact" />
+<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=safaebaamel&layout=compact" />
 </a>
 
 [LinkedIn]: https://www.linkedin.com/in/safae-baamel-ba27761a7/
