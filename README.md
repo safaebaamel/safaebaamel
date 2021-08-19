@@ -6,7 +6,7 @@
 Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
 
 - 🔭 I'm currently a Full-stack Developer at RedMind Tech 😀😃
-- 🌱 Learning MEAN STACK, an diving through Angular World 🌑🌑
+- 🌱 Learning MEAN STACK, and diving through Angular World 🌑🌑
 - 👯 Always ready for a Webinar or a talk 😎😎
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me:
