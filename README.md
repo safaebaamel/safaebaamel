@@ -9,7 +9,6 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 - 🌱 Learning MEAN STACK, and diving through Angular World 🌑🌑
 - 👯 Always ready for a Webinar or a talk 😎😎
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 📫 How to reach me:
 ### 💻 Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -31,6 +30,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 
+- 📫 How to reach me:
 
 [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/safaebaamel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/safaebaamel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/safae-baamel-ba27761a7/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](safa.baamel@gmail.com)
 
