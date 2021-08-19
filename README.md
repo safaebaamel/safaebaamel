@@ -25,7 +25,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 -------
 
 <a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daggy1234&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaebaamel&layout=compact" />
 </a>
 
 -------
