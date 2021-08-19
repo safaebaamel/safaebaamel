@@ -17,9 +17,9 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=blue">
+<img src="https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=red">
+<img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue&logoColor=green">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
