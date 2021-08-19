@@ -1,35 +1,33 @@
-<div style="background: green ">
-<!-- top left -->
-<div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
-</div>
-<p style= "position: center">
-### 👋 Yo World :3! I'm Safae, a Youcoder, a Full-stack developer :)! You can say that I'm a complete NERD w glasses :computer: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<p>
 
-<p style= "position: center">
-:heart: Code :heart: Programming :3!! :heart:
-</p>
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-![Profile views](https://gpvc.arturio.dev/sapae) <a style= "position: center" href="https://github.com/safaebaamel"><img src="https://img.shields.io/github/followers/safaebaamel?label=Follow&style=social"></a> <a href="https://twitter.com/safaebaamel"><img src="https://img.shields.io/twitter/follow/safaebaamel?style=social"></a>
+:heart: Programming | :black_heart: Reading | :blue_heart: Sharing Peace Among Discord Servers
 
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Stats   
-![safae baamel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaebaamel&hide=["stars"]&show_icons=true)
+Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
 
-<a href="#stats">
-<img align="center" src = "https://github-readme-stats-git-master.pranavgpr.vercel.app/api/top-langs/?username=safaebaamel&layout=compact" />
-</a>
+- 🔭 I'm currently a Full-stack Developer at RedMind Tech 😀😃
+- 🌱 Learning MEAN STACK, an diving through Angular World 🌑🌑
+- 👯 Always ready for a Webinar or a talk 😎😎
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- 📫 How to reach me:
 
-[LinkedIn]: https://www.linkedin.com/in/safae-baamel-ba27761a7/
-[Instagram]: https://www.instagram.com/bluuueeee_____/
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/safaebaamel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/amchuz) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/safaebaamel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/safae-baamel-ba27761a7/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](safa.baamel@gmail.com)
+|---|---|---|---|---|---|
 
-[comment]: <> (- 🔭 I’m currently working on ...)
-[comment]: <> (- 🌱 I’m currently learning ...)
-[comment]: <> (- 👯 I’m looking to collaborate on ...)
-[comment]: <> (- 🤔 I’m looking for help with ...)
-[comment]: <> (- 💬 Ask me about ...)
-[comment]: <> (- 📫 How to reach me: ...)
-[comment]: <> (- 😄 Pronouns: ...)
-[comment]: <> (- ⚡ Fun fact: ...)
-[comment]: <> (-->)
+----
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
+.    
+
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaebaamel&hide=["stars"]&show_icons=true)
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Python      4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   35.69 
+HTML/CSS    2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   22.32 
+Javascript  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.17 
+Dart        1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 
