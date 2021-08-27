@@ -19,7 +19,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 <img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=blue">
 <img src="https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=red">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/-Vue-000000?style=flat&logo=vue&logoColor=green">
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
