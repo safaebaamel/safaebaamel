@@ -35,14 +35,10 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 
 
 ----
-### What I do Every Single day !
 
    
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaebaamel&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=safaebaamel&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
 </p>
--------
-
-
--------
+-----
