@@ -35,8 +35,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 
 
 ----
-
-#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I do Every Single day !
+### What I do Every Single day !
 
    
 <p align="center">
@@ -45,8 +44,5 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 </p>
 -------
 
-<a href="https://github.com/Daggy1234">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaebaamel&layout=compact" />
-</a>
 
 -------
