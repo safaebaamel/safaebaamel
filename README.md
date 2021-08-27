@@ -31,7 +31,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 
 - 📫 How to reach me:
 
-[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/safaebaamel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/safaebaamel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/safae-baamel-ba27761a7/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](safa.baamel@gmail.com) | [<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab logo" width="80">](https://gitlab.com/safaebaamel) 
+[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/safaebaamel) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/safaebaamel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/safae-baamel-ba27761a7/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](safa.baamel@gmail.com) | [<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab logo" width="80">](https://gitlab.com/safaebaamel)]
 
 
 ----
@@ -39,8 +39,10 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I do Every Single day !
 
    
-<img src="https://github-readme-stats.vercel.app/api?username={safaebaamel}&theme=blue-green"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safaebaamel&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
+<img src="https://github-readme-stats.vercel.app/api?username=safaebaamel&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px" />
+</p>
 -------
 
 <a href="https://github.com/Daggy1234">
