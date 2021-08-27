@@ -39,8 +39,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> What I do Every Single day !
 
    
-
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaebaamel&hide=["stars"]&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username={safaebaamel}&theme=blue-green"/>
 
 -------
 
