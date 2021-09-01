@@ -7,7 +7,7 @@ Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a 
 
 - 🔭 I'm currently a Full-stack Developer at RedMind Tech 😀😃
 - 🌱 Learning MEAN STACK, and diving through Angular World 🌑🌑
-- 🐱<a href="https://emoji.gg/emoji/8584-typescript"><img src="https://emoji.gg/assets/emoji/8584-typescript.png" width="64px" height="64px" alt="TypeScript"></a> NESTJS IS AWSOME, NESTJS IS AWESOME ⛅️
+- 🐱<a href="https://emoji.gg/emoji/8584-typescript"><img src="https://emoji.gg/assets/emoji/8584-typescript.png" width="10px" height="10px" alt="TypeScript"></a> NESTJS IS AWSOME, NESTJS IS AWESOME ⛅️
 - 👯 Always ready for a Webinar or a talk 😎😎
 - 💬 Ask me about anything. I will try to help you as much as I can.
 ### 💻 Tech & Tools Preference
