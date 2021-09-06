@@ -3,7 +3,7 @@
 
 :heart: Programming | :black_heart: Reading | :blue_heart: Sharing Peace Among Discord Servers
 
-Hello, I'm Safae, a junior Full-stack developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
+Hello, I'm Safae, a Full-stack developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
 
 - 🔭 I'm currently a Full-stack Developer at RedMind Tech 😀😃
 - 🌱<a href="https://emoji.gg/emoji/6573_angular"><img src="https://emoji.gg/assets/emoji/6573_angular.png" width="20px" height="20px" alt="angular"></a> Learning MEAN STACK, and diving through Angular World 🌑🌑
