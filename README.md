@@ -9,8 +9,9 @@ Hello, I'm Safae, a Full-stack developer, a knowledge seeker, a tutor, a speaker
 - 🌱<a href="https://emoji.gg/emoji/6573_angular"><img src="https://emoji.gg/assets/emoji/6573_angular.png" width="20px" height="20px" alt="angular"></a> Learning MEAN STACK, and diving through Angular World 🌑🌑
 - 🐱<a href="https://emoji.gg/emoji/8584-typescript"><img src="https://emoji.gg/assets/emoji/8584-typescript.png" width="15px" height="15px" alt="TypeScript"></a> NESTJS IS AWSOME, NESTJS IS AWESOME ⛅️
 - 👯 Always ready for a Webinar or a talk 😎😎
-- 🎩 Student At Youcode Safi 😃
-- ⬆️ Student AT UOP 🖱️💻
+- 🎩 Youcode Safi Alumni 😃
+- 🤠 Initiation to ASP.NET core .. 🖱️🌜
+- ⬆️ Student AT The university of the People 🖱️💻
 - 💬 Ask me about anything. I will try to help you as much as I can.
 ### 💻 Tech & Tools Preference
 
