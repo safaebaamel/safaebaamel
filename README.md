@@ -10,7 +10,7 @@ Hello, I'm Safae, a Full-stack developer, a knowledge seeker, a tutor, a speaker
 - 🐱<a href="https://emoji.gg/emoji/8584-typescript"><img src="https://emoji.gg/assets/emoji/8584-typescript.png" width="15px" height="15px" alt="TypeScript"></a> NESTJS IS AWSOME, NESTJS IS AWESOME ⛅️
 - 👯 Always ready for a Webinar or a talk 😎😎
 - 🎩 Youcode Safi Alumni 😃
-- 🤠 Initiation to ASP.NET core .. 🖱️🌜
+- 🤠 ASP.NET core All day long.. 🖱️🌜
 - ⬆️ Student AT The university of the People 🖱️💻
 - 💬 Ask me about anything. I will try to help you as much as I can.
 ### 💻 Tech & Tools Preference
@@ -32,6 +32,8 @@ Hello, I'm Safae, a Full-stack developer, a knowledge seeker, a tutor, a speaker
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dotnet-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSHARP-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 - 📫 How to reach me:
 
