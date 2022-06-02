@@ -20,7 +20,7 @@ Hello, I'm Safae, a Full-stack developer, a knowledge seeker, a tutor, a speaker
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=blue">
 <img src="https://img.shields.io/badge/-laravel-000000?style=flat&logo=laravel&logoColor=red">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
