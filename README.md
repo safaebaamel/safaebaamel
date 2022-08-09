@@ -3,7 +3,7 @@
 
 :heart: Programming | :black_heart: Reading | :blue_heart: Sharing Peace Among Discord Servers
 
-Hello, I'm Safae, a Full-stack developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
+Hello, I'm Safae, a .NET/Angular developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
 
 - 🔭 I'm currently a Full-stack Developer at RedMind Tech 😀😃
 - 👩‍💼 Quick Digital Media Co-Founder and CEO 💻⚛️😃
