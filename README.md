@@ -6,11 +6,9 @@
 Hello, I'm Safae, a .NET/Angular developer, a knowledge seeker, a tutor, a speaker .. It depends on what activated mode I'm at ✌🏽🕖
 
 - 🔭 I'm currently a Full-stack Developer at RedMind Tech 😀😃
-- 👩‍💼 Quick Digital Media Co-Founder and CEO 💻⚛️😃
 - 🌱<a href="https://emoji.gg/emoji/6573_angular"><img src="https://emoji.gg/assets/emoji/6573_angular.png" width="20px" height="20px" alt="angular"></a> Learning MEAN STACK, and diving through Angular World 🌑🌑
 - 🐱<a href="https://emoji.gg/emoji/8584-typescript"><img src="https://emoji.gg/assets/emoji/8584-typescript.png" width="15px" height="15px" alt="TypeScript"></a> NESTJS IS AWSOME, NESTJS IS AWESOME ⛅️
 - 👯 Always ready for a Webinar or a talk 😎😎
-- 🎩 Youcode Safi Alumni 😃
 - 🤠 ASP.NET core All day long.. 🖱️🌜
 - ⬆️ Student AT The university of the People 🖱️💻
 - 💬 Ask me about anything. I will try to help you as much as I can.
